@@ -1,6 +1,6 @@
 package CreationalDP.FactoryDP;
 
-public class Triangle implements Shape {
+/*public */class Triangle implements Shape {
 
     private String name;
 

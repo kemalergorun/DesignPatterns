@@ -1,6 +1,6 @@
 package CreationalDP.FactoryDP;
 
-public class Pentagon implements Shape{
+/*public */class Pentagon implements Shape{
     private String name;
 
     private int angle;
