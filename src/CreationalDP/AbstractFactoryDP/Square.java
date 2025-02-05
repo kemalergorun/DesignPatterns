@@ -1,6 +1,6 @@
 package CreationalDP.AbstractFactoryDP;
 
-/*public*/class Square implements Shape {
+public class Square implements Shape {
     private String name;
 
     private int angle;
@@ -15,6 +15,6 @@ package CreationalDP.AbstractFactoryDP;
 
     @Override
     public void draw() {
-        System.out.println(this.name+"drawen. Angle : "+this.angle+ "Edge:"+this.edge);
+        System.out.println(this.name+" drawen. Angle :"+this.angle+ " Edge:"+this.edge);
     }
 }
