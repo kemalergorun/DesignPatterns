@@ -1,5 +1,5 @@
 package CreationalDP.AbstractFactoryDP;
-//fabrikalrın fabrikası
+//fabrikaların fabrikası
 public class FactoryProducer {
 
     public static AbstractFactory getFactory(String select){
