@@ -1,7 +1,7 @@
 package StructuralDP.DecoratorDP;
 
 public interface Phone {
-    String getname();
+    String getName();
 
     int getCameraCount();
 
