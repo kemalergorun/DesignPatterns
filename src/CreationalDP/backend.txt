@@ -97,3 +97,4 @@ Java'da @Builder anotasyonu, özellikle Lombok kütüphanesi ile birlikte kullan
 nesne oluşturma işlemlerini kolaylaştırır, kodun okunabilirliğini artırır ve bakımı daha da basitleştirir.
  Builder desenini uygulamak manuel olarak da yapılabilir ancak Lombok sayesinde bu işlem otomatikleştirilir
  ve yazılan kod miktarı azalır.
+ https://techproeducation.zoom.us/j/85429075551?pwd=RTTBHep3sgAFgMos8L5bR029GaQLgZ.1
